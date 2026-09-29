@@ -1,0 +1,11 @@
+# Dataset, model weights and generated outputs stay local: they're large, and
+# the images belong to the original dataset.
+raw/
+runs/
+weights/
+*.pt
+*.pkl
+
+__pycache__/
+*.pyc
+.vscode/
